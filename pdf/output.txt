@@ -1,0 +1,71 @@
+Sekpey Herbert Setor Kwame
+❖www.linkedin.com/in/herbert-sekpey ❖github.com/panda0942 ❖@sekpeyherbert@gmail.com
+EDUCATION
+Kwame Nkrumah University of Science and Technology – Kumasi, Ghana
+Graduating Nov 2025
+Major:
+BSc. Computer Science
+Relevant Coursework : Object-Oriented Programming in Java, Programming with C++,Visual Basic.NET,
+Assembly Language, Mobile Application Development with React Native
+EXPERIENCE
+Digital Applied Learning and Innovation Lab – Hanover, New Hampshire
+Feb 2024 - Present
+Software Engineer (Part-time)
+●
+Developed mobile, web, and AR/VR applications in scrum teams for various partners using React, React
+Native, and Unity.
+●
+Created and integrated frontend features for the Plastic Sorting App, PlastiSmart, enhancing recycling efforts
+with an image recognition model.
+●
+Delivered high-impact solutions for business partners across industries while balancing coursework.
+●
+Presented projects to over 100 students and faculty, showcasing innovative digital solutions.
+●
+Technologies: React, React Native, Typescript, Unity, Tensorflow, Python, Express, Node.js, MongoDB
+Willbear.io Financial Aggregation Startup – Remote, UK
+Oct 2022 – Jan 2023
+Front End Developer Intern
+●
+Implemented user-friendly interfaces for real-time data visualization and interaction.
+●
+Collaborated with the backend team to integrate machine learning models for market prediction and analysis,
+enabling investors to make better-informed decisions.
+●
+Assisted in testing and debugging the application to ensure optimal performance and user experience.
+●
+Technologies: HTML, CSS, Javascript, Python, PHP, Apache
+PROJECTS
+Innovative Gesture-Controlled Interface
+- Github
+●
+Developed a program enabling mouse control via hand gestures using OpenCV and Mediapipe.
+●
+Implemented precise hand tracking and gesture recognition, providing hands-free, ergonomic interaction.
+●
+Enhanced accessibility and productivity with customizable, intuitive controls for users with mobility
+impairments.
+●
+Achieved high accuracy in gesture detection, validated through extensive testing and positive user feedback.
+PlastiSmart - Github
+●
+Contributed to the development and deployment of the Plastic Sorting App, PlastiSmart.
+●
+Collaborated with data developers to integrate an advanced image recognition model.
+●
+Developed the frontend functionality to identify plastic polymers based on Resin Identification Codes (RIC)
+and other visual cues.
+●
+Implemented the recognition model to provide users with detailed information about each type of plastic
+polymer and appropriate recycling protocols.
+●
+Promoted sustainable recycling practices by educating users on proper plastic disposal methods.
+SKILLS AND INTERESTS
+●
+Java, C++, JavaScript , Python , HTML5, CSS , React, React Native, Node.js, Express, Django, OpenCV,
+Numpy, Git, Github, Linux
+CAMPUS INVOLVEMENT
+●
+Google Student Developer Club, Member, KNUST , March 2023-Dec 2023
+●
+TechStripped Africa - KNUST, Workshop Lead , Feb 2024 - Present
